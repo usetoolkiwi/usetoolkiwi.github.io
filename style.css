@@ -120,3 +120,6 @@ details p{margin:10px 0 0;color:var(--muted)}
 .page{max-width:760px;margin:32px auto}
 .page h1{letter-spacing:-.02em}
 .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+
+.support{display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap;background:var(--brand-soft);border:1px solid var(--line);border-radius:var(--radius);padding:18px 20px;margin:28px 0}
+.btn.kofi{background:#13c3ff;color:#06263a}.btn.kofi:hover{background:#0fb0e8}
